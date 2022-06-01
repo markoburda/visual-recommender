@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+data
+dataset_reset_index
+lightning_logs
+photos
+photos_reset_index
+runs
+yelp_dataset
+.idea
+__pycache__/
